@@ -1,6 +1,6 @@
 # okhttp-utils
 
->由于个人原因，现已停止维护。
+此项目仅用于学习张鸿洋大神的框架
 
 对okhttp的封装类，okhttp见：[https://github.com/square/okhttp](https://github.com/square/okhttp).
 
