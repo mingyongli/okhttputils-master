@@ -1,6 +1,7 @@
 # okhttp-utils
 
 此项目仅用于学习张鸿洋大神的框架,以及方便使用
+
 对okhttp的封装类，okhttp见：[https://github.com/square/okhttp](https://github.com/square/okhttp).
 
 目前对应okhttp版本`3.3.1`.
